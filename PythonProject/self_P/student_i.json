@@ -1,0 +1,14 @@
+{
+    "name": "Million",
+    "age": 21,
+    "fans": [
+        "Messi",
+        "Ronaldo",
+        "Mr.Beast"
+    ],
+    "skills": [
+        "Engineer",
+        "HTML",
+        "CSS"
+    ]
+}

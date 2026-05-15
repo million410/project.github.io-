@@ -1,0 +1,22 @@
+DEBUG:root:This is a debug msg.
+INFO:root:This is  info msg.
+WARNING:root:This is warning msg.
+
+2026-03-20 18:59:46,708 - DEBUG - This is a debug msg2.
+2026-03-20 18:59:46,709 - INFO - This is  info msg2.
+2026-03-20 18:59:46,709 - WARNING - This is warning msg2.
+***[DEBUG]***
+Time: 2026-03-20 19:19:42,515
+Msg : This is a debug msg2.
+File: 013 Start logging like a pro--.py Line : 40
+------------------------------------------------------
+***[INFO]***
+Time: 2026-03-20 19:19:42,516
+Msg : This is info msg2.
+File: 013 Start logging like a pro--.py Line : 41
+------------------------------------------------------
+***[WARNING]***
+Time: 2026-03-20 19:19:42,516
+Msg : This is warning msg2.
+File: 013 Start logging like a pro--.py Line : 42
+------------------------------------------------------

@@ -1,0 +1,5 @@
+2026-03-23 18:41:28,562 - revitAutomation - DEBUG - debug message
+2026-03-23 18:41:28,563 - revitAutomation - INFO - info message
+2026-03-23 18:41:28,563 - revitAutomation - WARNING - warning message
+2026-03-23 18:41:28,563 - revitAutomation - ERROR - error message
+2026-03-23 18:41:28,563 - revitAutomation - CRITICAL - critical message
